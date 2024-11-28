@@ -1,0 +1,5 @@
+var searchIndex = new Map(JSON.parse('[\
+["minigrep",{"doc":"","t":"FNNNONONOHHHNNN","n":["Config","borrow","borrow_mut","build","file_path","from","ignore_case","into","query","run","search","search_case_insensitive","try_from","try_into","type_id"],"q":[[0,"minigrep"],[15,"alloc::string"],[16,"core::result"],[17,"core::error"],[18,"alloc::boxed"],[19,"alloc::vec"],[20,"core::any"]],"d":["","","","","","Returns the argument unchanged.","","Calls <code>U::from(self)</code>.","","","","","","",""],"i":[0,3,3,3,3,3,3,3,3,0,0,0,3,3,3],"f":[0,[-1,-2,[],[]],[-1,-2,[],[]],[[[2,[1]]],[[5,[3,4]]]],0,[-1,-1,[]],0,[-1,-2,[],[]],0,[3,[[5,[6,[8,[7]]]]]],[[4,4],[[9,[4]]]],[[4,4],[[9,[4]]]],[-1,[[5,[-2]]],[],[]],[-1,[[5,[-2]]],[],[]],[-1,10,[]]],"c":[],"p":[[5,"String",15],[1,"slice"],[5,"Config",0],[1,"str"],[6,"Result",16],[1,"tuple"],[10,"Error",17],[5,"Box",18],[5,"Vec",19],[5,"TypeId",20]],"b":[]}]\
+]'));
+if (typeof exports !== 'undefined') exports.searchIndex = searchIndex;
+else if (window.initSearch) window.initSearch(searchIndex);

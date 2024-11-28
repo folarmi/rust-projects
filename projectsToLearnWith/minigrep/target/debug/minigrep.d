@@ -1,0 +1,1 @@
+/Users/folacodes/Desktop/Learning/rust/projects/projectsToLearnWith/minigrep/target/debug/minigrep: /Users/folacodes/Desktop/Learning/rust/projects/projectsToLearnWith/minigrep/src/lib.rs /Users/folacodes/Desktop/Learning/rust/projects/projectsToLearnWith/minigrep/src/main.rs
